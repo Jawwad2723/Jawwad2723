@@ -80,7 +80,6 @@ Welcome to my GitHub! I’m a **Python Developer** and **AI/ML Engineer** specia
 ## 📂 Featured Projects
 
 ### 🎯 **Production Systems**
-
 #### **AI-Powered Call Bot System**
 
 *Real-time conversational AI for telephony*
@@ -89,6 +88,16 @@ Welcome to my GitHub! I’m a **Python Developer** and **AI/ML Engineer** specia
 - 5 concurrent calls, sub-3-second latency
 - Full-stack: FastAPI backend, Node.js UI, PostgreSQL/Redis
 - **Tech:** Python, FastAPI, Docker, WebSockets, Asterisk, n8n
+
+#### **AI News Avatar Video Generator**
+
+*Real-time AI News Avatar Video Generator Pipeline*
+
+- Built an end-to-end automated pipeline that scrapes trending news, generates AI summaries, and creates professional avatar videos with lip-sync narra�on.
+- Integrated OpenAI GPT-4o-mini for ar�cle summariza�on and D-ID API for realis�c avatar video genera�on.
+- Implemented mul�-source news aggrega�on (30+ sources) with intelligent fallback system achieving 99%+ scraping success rate.
+- Op�mized for D-ID free �er constraints, reducing script length by 40% while maintaining broadcast quality output.
+- Delivered complete REST API with FastAPI, comprehensive error handling, and 5000+ lines of documenta�on.
 
 #### **Automated Book Generation Pipeline**
 
