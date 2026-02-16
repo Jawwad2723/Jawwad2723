@@ -129,12 +129,13 @@ Welcome to my GitHub! I'm a **Python Developer** and **AI/ML Engineer** speciali
 - Script optimization reducing length by 40% while maintaining quality
 - Complete REST API with comprehensive error handling and 5000+ lines of documentation
 - **Tech:** Python, FastAPI, OpenAI GPT-4o-mini, D-ID API, Beautiful Soup
-- **🔗 [Live Demo](https://ai-meeting-assistant-omega.vercel.app/)**
 
 ---
 
 #### 🎙️ **Meeting AI: Intelligent Transcription & Analysis**
 *Privacy-focused meeting assistant with local transcription and AI insights*
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_App-success?style=for-the-badge&logo=vercel)](https://ai-meeting-assistant-omega.vercel.app)
 
 - Local audio transcription using OpenAI Whisper (privacy-first, no cloud upload)
 - Asynchronous processing pipeline for non-blocking uploads with real-time status tracking
@@ -143,7 +144,7 @@ Welcome to my GitHub! I'm a **Python Developer** and **AI/ML Engineer** speciali
 - Built-in analytics layer for meeting cadence, durations, and success rates
 - BYOK (Bring Your Own Key) functionality for cloud-ready deployment
 - **Tech:** Python, FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, OpenAI Whisper, GPT-4o, Framer Motion
-- **🔗 [Live Demo](https://ai-meeting-assistant-omega.vercel.app/)**
+- **🔗 [Live Demo](https://ai-meeting-assistant-omega.vercel.app)** | **📖 [Documentation](https://github.com/Jawwad2723/AI-Meeting-Assitant-README)**
 
 ---
 
@@ -177,28 +178,8 @@ Welcome to my GitHub! I'm a **Python Developer** and **AI/ML Engineer** speciali
 - Batch processing (10+ jobs) with CSV/JSON export
 - **Tech:** FastAPI, Streamlit, Gemini, OpenAI APIs
 
------
-
-### 🧪 **ML/AI Experiments**
-
-#### **Text Generation using Neural Networks**
-- LSTM/mini-Transformer on movie plots dataset
-- Demonstrated sequence learning and generative modeling capabilities
-
-#### **Basic Image Generation with GANs**
-- GAN implementation on MNIST dataset for handwritten digit generation
-- Monitored training stability and visualized outputs across epochs
-
-#### **Lightweight PDF Question-Answering Bot**
-- Document intelligence system using embeddings + language model
-- Practical NLP and generative AI application
-
-#### **Text Data Preprocessing & Feature Engineering**
-- Cleaned and tokenized raw text datasets for NLP tasks
-- Feature extraction and vocabulary analysis for ML pipelines
-
------
-
+---
+  
 ### 🎓 **Academic Projects**
 
 #### 📡 **Radiation Pattern Correction using DNN (Final Year Project)**
