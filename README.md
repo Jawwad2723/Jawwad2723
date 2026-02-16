@@ -7,7 +7,7 @@
 
 Welcome to my GitHub! I'm a **Python Developer** and **AI/ML Engineer** specializing in building production-ready AI systems, real-time audio processing, and scalable backend services. Passionate about creating intelligent applications from concept to cloud deployment.
 
-> 🌐 **Check out my portfolio:** [jawwad-portfolio-ten.vercel.app](https://jawwad-portfolio-ten.vercel.app)
+> 🌐 **Check out my portfolio:** [jawwad-portfolio-ten.vercel.app](https://jawwad-hassan.vercel.app)
 
 -----
 
