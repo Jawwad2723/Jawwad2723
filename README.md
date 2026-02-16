@@ -212,34 +212,6 @@ Welcome to my GitHub! I'm a **Python Developer** and **AI/ML Engineer** speciali
 
 -----
 
-## 💡 Core Competencies
-```python
-jawwad_hassan = {
-    "role": "AI/ML Engineer & Python Developer",
-    "specialization": [
-        "Production AI Systems (0 to 1)",
-        "Real-time Audio Processing",
-        "Conversational AI",
-        "Backend Architecture"
-    ],
-    "backend_development": ["FastAPI", "Flask", "REST APIs", "WebSockets"],
-    "databases": ["PostgreSQL", "Redis", "MongoDB", "SQLite"],
-    "ai_ml": ["LLMs", "Prompt Engineering", "Fine-tuning", "RAG", "Model Optimization"],
-    "voice_ai": ["Whisper", "ElevenLabs", "Asterisk", "VoIP", "Real-time Processing"],
-    "devops": ["Docker", "CI/CD", "Cloud Deployment", "CUDA", "System Monitoring"],
-    "system_architecture": ["Microservices", "Distributed Systems", "Event-Driven", "Low-Latency"],
-    "languages": ["Python (Advanced)", "JavaScript/Node.js", "TypeScript"],
-    "key_achievements": [
-        "Sub-3-second latency AI voice systems",
-        "5+ concurrent call handling",
-        "99%+ scraping success rates",
-        "Full-stack 0-to-1 development"
-    ]
-}
-```
-
------
-
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on:
@@ -254,7 +226,7 @@ Feel free to explore my repositories and reach out for collaborations!
 
 📧 **Email:** [jawwadhassan76@gmail.com](mailto:jawwadhassan76@gmail.com)  
 💼 **LinkedIn:** [jawwad-hassan-692207180](https://linkedin.com/in/jawwad-hassan-692207180)  
-🌐 **Portfolio:** [jawwad-portfolio-ten.vercel.app](https://jawwad-portfolio-ten.vercel.app)  
+🌐 **Portfolio:** [jawwad-portfolio-ten.vercel.app](https://jawwad-hassan.vercel.app)  
 📍 **Location:** Islamabad, Pakistan
 
 -----
