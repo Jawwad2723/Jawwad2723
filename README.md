@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:jawwadhassan76@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Islamabad-green?style=flat&logo=google-maps)](https://www.google.com/maps/place/Islamabad)
 
-Welcome to my GitHub! I'm an **AI/Voice Engineer** specializing in real-time voice AI pipelines, telephony systems, and production-grade AI infrastructure. Passionate about making AI phone calls feel natural, reliable, and fast — from concept to cloud deployment.
+Welcome to my GitHub! I'm a **Python Developer** and **AI Engineer** specializing in building production-grade AI features using LLMs, RAG pipelines, vector databases, and AI agents. Passionate about designing scalable backend architectures and integrating AI capabilities into customer-facing products — from concept to cloud deployment.
 
 > 🌐 **Check out my portfolio:** [jawwad-portfolio-ten.vercel.app](https://jawwad-hassan.vercel.app)
 
@@ -13,10 +13,10 @@ Welcome to my GitHub! I'm an **AI/Voice Engineer** specializing in real-time voi
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on:** Production real-time voice AI pipelines (STT/LLM/TTS) handling 35+ concurrent calls at **Sterlings Tech**
-- 🌱 **Learning:** Advanced VAD/barge-in tuning, distributed voice systems, and cloud-native AI deployments
-- 💡 **Interests:** Voice AI, Conversational AI, Real-time Audio Processing, LLMs, Backend Development, API Design, DevOps
-- 🎯 **Career goal:** Build reliable, low-latency voice AI systems and scalable backend infrastructure
+- 🔭 **Currently working on:** Production-grade AI-powered systems (LLM integrations, real-time pipelines) at **Sterlings Tech**
+- 🌱 **Learning:** Advanced RAG architectures, AI agents, and cloud-native AI deployments
+- 💡 **Interests:** LLMs, RAG, AI Agents, Conversational AI, Backend Development, API Design, DevOps
+- 🎯 **Career goal:** Build production-grade AI features and scalable backend infrastructure
 - 📫 **Reach me:** [jawwadhassan76@gmail.com](mailto:jawwadhassan76@gmail.com) | [LinkedIn](https://linkedin.com/in/jawwad-hassan-692207180)
 - 🎓 **Education:** B.E. in Computer Engineering, COMSATS University Islamabad (CGPA: 3.57) - Graduate 2025
 
