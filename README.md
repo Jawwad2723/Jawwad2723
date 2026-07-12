@@ -7,7 +7,7 @@
 
 Welcome to my GitHub! I'm a **Python Developer** and **AI Engineer** specializing in building production-grade AI features using LLMs, RAG pipelines, vector databases, and AI agents. Passionate about designing scalable backend architectures and integrating AI capabilities into customer-facing products — from concept to cloud deployment.
 
-> 🌐 **Check out my portfolio:** [jawwad-portfolio-ten.vercel.app](https://jawwadhassan.vercel.app/)
+> 🌐 **Check out my portfolio:** [Jawwad's Portfolio](https://jawwadhassan.vercel.app/)
 
 -----
 
