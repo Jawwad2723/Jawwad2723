@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:jawwadhassan76@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Islamabad-green?style=flat&logo=google-maps)](https://www.google.com/maps/place/Islamabad)
 
-Welcome to my GitHub! I'm a **Python Developer** and **AI Engineer** specializing in building production-grade AI features using LLMs, RAG pipelines, vector databases, and AI agents. Passionate about designing scalable backend architectures and integrating AI capabilities into customer-facing products — from concept to cloud deployment.
+Welcome to my GitHub! I'm a **Python Developer** and **AI Engineer** specializing in building production-grade AI features using LLMs, RAG pipelines, vector databases, and AI agents — with hands-on experience building the scalable, secure backend systems (REST APIs, JWT auth, RBAC) and full-stack platforms (Next.js/React) that ship those features into customer-facing products.
 
 > 🌐 **Check out my portfolio:** [Jawwad's Portfolio](https://jawwadhassan.vercel.app/)
 
@@ -13,10 +13,10 @@ Welcome to my GitHub! I'm a **Python Developer** and **AI Engineer** specializin
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on:** Production-grade AI-powered systems (LLM integrations, real-time pipelines) at **Sterlings Tech**
+- 🔭 **Currently working on:** Production-grade AI-powered systems (LLM integrations, real-time voice pipelines, full-stack admin platforms) at **Sterlings Tech**
 - 🌱 **Learning:** Advanced RAG architectures, AI agents, and cloud-native AI deployments
-- 💡 **Interests:** LLMs, RAG, AI Agents, Conversational AI, Backend Development, API Design, DevOps
-- 🎯 **Career goal:** Build production-grade AI features and scalable backend infrastructure
+- 💡 **Interests:** LLMs, RAG, AI Agents, Conversational AI, Backend Development, Full-Stack Development, API Design, DevOps
+- 🎯 **Career goal:** Build production-grade AI features and scalable, secure full-stack infrastructure
 - 📫 **Reach me:** [jawwadhassan76@gmail.com](mailto:jawwadhassan76@gmail.com) | [LinkedIn](https://linkedin.com/in/jawwad-hassan-692207180)
 - 🎓 **Education:** B.E. in Computer Engineering, COMSATS University Islamabad (CGPA: 3.57) - Graduate 2025
 
@@ -44,16 +44,18 @@ Welcome to my GitHub! I'm a **Python Developer** and **AI Engineer** specializin
 **29 October 2025 – Present**
 
 - 🤖 Designed and developed end-to-end **AI-powered Call Bot** handling **35+ concurrent calls** with **sub-1.5s latency**
+- 🖥️ Architected and shipped a **production full-stack admin platform** (Next.js/React + Express.js) for managing the call bot infrastructure — real-time analytics, call management, JWT/RBAC-secured APIs, and multi-database aggregation
 - 🎙️ Built and evaluated **5 parallel STT→LLM→TTS pipelines** (Whisper+Qwen2.5+ElevenLabs, OpenAI Realtime API, Vosk+Gemini+Parakeet, Deepgram, Google TTS) to benchmark latency, accuracy, and cost tradeoffs
 - ⚡ Tuned **Silero VAD** for barge-in detection with **<148ms interruption response** and **<150ms TTS interruption handling**
 - 📊 Optimized pipeline achieving **200–500ms first STT partial result**, **<400ms LLM inference**, and **200ms TTS first-byte response**
 - 🌐 Implemented real-time audio streaming via **RTP packet transmission** for STT and TTS, minimizing round-trip latency
 - 🎯 Maintained **900ms–1.5s end-to-end response** after user interruption, with **97% STT transcription accuracy** in production
 - 🔍 Deployed and monitored production voice pipeline end-to-end with structured logging for real-time debugging
-- ☎️ Configured **SIP peer-based call transfers** (including warm transfers to live agent extensions) via **Asterisk/Vicidial** infrastructure
+- ☎️ Configured **SIP peer-based call transfers** (including warm transfers to live agent extensions) via **Asterisk/Vicidial/Kamailio** infrastructure
+- 🔌 Designed and optimized **FastAPI services** for real-time customer data retrieval from Vicidial and call booking/reservation workflows
 - 🌍 Built **multilingual voice support** across multiple languages/accents/voices for a diverse caller base
 - 🧪 Designed and ran **voice AI evaluation and simulation testing** pre-production to catch failure cases before deployment
-- 🔧 Built production-ready system from scratch (0 to 1) using **Python**, **FastAPI**, **PostgreSQL**, **Redis**, and **Docker**
+- 🔧 Built production-ready systems from scratch (0 to 1) using **Python**, **FastAPI**, **Express.js**, **Next.js**, **PostgreSQL**, **Redis**, and **Docker**
 
 ### Information Security Intern @ NBP FUND PVT Ltd
 **February 2024 – March 2024**
@@ -72,23 +74,29 @@ Welcome to my GitHub! I'm a **Python Developer** and **AI Engineer** specializin
 ![JavaScript](https://img.shields.io/badge/JavaScript-Node.js-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
+### **Frontend & Full-Stack**
+`Next.js 15 (App Router)` `React 19` `TypeScript` `Material-UI (MUI)` `Socket.io (client)` `SWR` `Vite` `Streamlit` `Framer Motion`
+
+### **Auth & Access Control**
+`JWT Authentication` `OAuth (fundamentals)` `Role-Based Access Control (RBAC)` `Resource/Permission-based Authorization Middleware`
+
 ### **Voice AI / Telephony**
-`SIP` `WebRTC` `Asterisk` `Vicidial NonAgentAPI` `RTP Streaming` `Silero VAD` `Barge-in` `Endpointing` `Warm Call Transfers` `Multilingual STT/TTS` `OpenAI Realtime API` `Deepgram` `Whisper` `Vosk` `ElevenLabs` `Google TTS` `Parakeet` `Qwen2.5`
+`SIP` `WebRTC` `Asterisk` `Kamailio` `Vicidial NonAgentAPI` `RTP Streaming` `Silero VAD` `Barge-in` `Endpointing` `Warm Call Transfers` `Multilingual STT/TTS` `OpenAI Realtime API` `Deepgram` `Whisper` `Vosk` `ElevenLabs` `Google TTS` `Parakeet` `Qwen2.5`
 
 ### **Backend & APIs**
-`FastAPI` `Flask` `REST APIs` `WebSockets` `Audio Socket` `RTP Protocol` `SSE` `Asynchronous Programming`
+`FastAPI` `Express.js` `Flask` `REST API Design` `WebSockets` `Audio Socket` `RTP Protocol` `SSE` `Asynchronous Programming`
 
 ### **DevOps & Infrastructure**
-`Docker` `Git` `GitHub` `CI/CD Pipelines` `Cloud GPU Deployment` `CUDA 12` `AWS` `Azure` `GCP` `Kubernetes` `Prometheus` `Grafana` `OpenTelemetry` `Jaeger`
+`Docker` `Git` `GitHub` `CI/CD Pipelines` `Cloud GPU Deployment` `CUDA 12` `AWS (EC2)` `Azure` `GCP` `Kubernetes` `Prometheus` `Grafana` `OpenTelemetry` `Jaeger`
 
 ### **Databases & Caching**
-`PostgreSQL` `Redis` `MongoDB` `MySQL` `SQLite` `Qdrant (Vector DB)` `BM25`
+`PostgreSQL (Sequelize ORM)` `Redis` `MongoDB` `MySQL` `SQLite` `Qdrant (Vector DB)` `BM25`
 
 ### **AI/ML Services & Frameworks**
 `OpenAI (GPT-4, GPT-4o)` `Deepseek` `Ollama` `Whisper` `ElevenLabs` `Gemini` `Hugging Face` `LangChain` `LangGraph` `AI Agents` `Embeddings` `MCP` `RAGAS` `PyTorch` `TensorFlow` `Scikit-learn` `Transformers` `BERT`
 
 ### **System Architecture**
-`Microservices` `Distributed Systems` `Event-Driven Architecture` `Service Orchestration` `Low-Latency Systems`
+`Microservices` `Distributed Systems` `Event-Driven Architecture` `Service Orchestration` `Low-Latency Systems` `Multi-Database Connection Pooling`
 
 ### **ML Specializations**
 `RAG (Retrieval-Augmented Generation)` `Hybrid Retrieval (RRF)` `CrossEncoder Reranking` `Prompt Engineering` `Fine-tuning (LoRA, QLoRA, PEFT)` `GANs` `LSTMs` `Model Optimization`
@@ -108,6 +116,18 @@ Welcome to my GitHub! I'm a **Python Developer** and **AI Engineer** specializin
 
 ### 🎯 **Production Systems**
 
+#### 🖥️ **AI Call Bot – Full-Stack Admin Platform** | Sterlings Tech
+*Production admin platform for managing AI outbound call operations end-to-end*
+
+- Architected and shipped a full-stack admin platform delivering real-time analytics, call management, and infrastructure tooling — from REST API design to a responsive Next.js frontend
+- Designed and implemented **JWT-based authentication** with **resource/permission-scoped RBAC middleware** (Express.js) across 10+ protected resource groups (dashboard, calls, users, roles, reporting, database management)
+- Built the **Express.js/Node.js backend** with **dynamic multi-database PostgreSQL connection pooling** (Sequelize ORM) to aggregate call records across multiple distributed call-data servers
+- Implemented real-time GPU/resource monitoring via **Socket.io** streaming, backed by a Prometheus metrics poller
+- Built PDF-exportable reporting (voice, agent, and overview reports) and admin-side database/user management
+- **Tech:** Next.js 15 (App Router), React 19, TypeScript, Material-UI, Express.js, PostgreSQL, Sequelize, JWT/RBAC, Socket.io, Prometheus, AWS EC2
+
+---
+
 #### 🎙️ **AI-Powered Voice/Call Bot System** | Sterlings Tech
 *Real-time conversational AI for telephony with production-grade latency*
 
@@ -116,9 +136,10 @@ Welcome to my GitHub! I'm a **Python Developer** and **AI Engineer** specializin
 - Tuned Silero VAD for barge-in (**<148ms**) and TTS interruption handling (**<150ms**)
 - Achieved 200–500ms STT partial results, <400ms LLM inference, 200ms TTS first-byte, and 900ms–1.5s end-to-end interruption response
 - 97% STT transcription accuracy in production
-- SIP-based warm call transfers via Asterisk/Vicidial; multilingual/multi-accent voice support
+- SIP-based warm call transfers via Asterisk/Vicidial/Kamailio; multilingual/multi-accent voice support
+- Designed and optimized FastAPI services for real-time customer data retrieval (Vicidial) and call booking/reservation workflows
 - Full-stack: FastAPI backend, Node.js UI, PostgreSQL/Redis, Docker, Cloud GPU (CUDA 12)
-- **Tech:** Python, FastAPI, Docker, WebSockets, RTP, SIP, Asterisk, Silero VAD, n8n, PostgreSQL, Redis
+- **Tech:** Python, FastAPI, Docker, WebSockets, RTP, SIP, Asterisk, Kamailio, Silero VAD, n8n, PostgreSQL, Redis
 
 ---
 
@@ -240,7 +261,7 @@ I'm always interested in collaborating on:
 
 - 🔊 **Voice AI** and real-time conversational systems
 - 🤖 **AI/ML projects** and research
-- 🚀 **Scalable backend** architecture
+- 🚀 **Scalable full-stack** architecture (backend + Next.js/React)
 - 📚 **Open-source** contributions
 - 💼 **Production-ready** AI systems
 
